@@ -1,0 +1,9 @@
+name: cr-quickjs
+version: 0.1.0
+
+authors:
+  - Gusztáv Szikszai <guszti5@hotmail.com>
+
+crystal: 1.2.2
+
+license: MIT
